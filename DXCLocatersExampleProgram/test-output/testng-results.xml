@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="72262" started-at="2022-04-11T07:58:12Z" finished-at="2022-04-11T07:59:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="72262" started-at="2022-04-11T07:58:12Z" finished-at="2022-04-11T07:59:24Z">
+      <class name="DXCLocaters.NameLocater">
+        <test-method status="PASS" signature="Locaters()[pri:0, instance:DXCLocaters.NameLocater@66d2e7d9]" name="Locaters" duration-ms="72232" started-at="2022-04-11T13:28:12Z" finished-at="2022-04-11T13:29:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Locaters -->
+      </class> <!-- DXCLocaters.NameLocater -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
